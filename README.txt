@@ -1,9 +1,11 @@
-Plugin Name:Tab Slide Widget Plugin URL:https://example.com Description: Custom
-Elementor Tab Slide extension which includes custom widgets to yourWordPress
-website. Version:1.1.0 Requires PHP: 7.2 Author:Shazzad Hossen License: GPL v2
-or later License URI:https://www.gnu.org/licenses/gpl-2.0.html Update
-URI:https://github.com/ShazzadHossen7213/ Text Domain:custom-tab Domain
-Path:/languages
+Plugin Name:          Tab Slide Widget 
+Plugin URL:           https://example.com 
+Description:          Custom Elementor Tab Slide extension which includes custom widgets
+                      to your WordPress website. 
+Version:              1.1.0 Requires PHP: 7.2 Author:Shazzad Hossen 
+License:              GPL v2 or later License URI:https://www.gnu.org/licenses/gpl-2.0.html 
+Update URI:           https://github.com/ShazzadHossen7213/ Text Domain:custom-tab Domain
+Path:                 /languages
 
 == Tab-slide-Widgets Description ==
 
@@ -11,6 +13,8 @@ Path:/languages
 high-quality code and sophisticated design. This plugin offers a sleek and
 modern tabbed widget with dynamic content integration, ideal for enhancing your
 website's functionality and aesthetics.
+
+<p>You can make my day by submitting a positive review on <a href="" targrt="_blank"><strong>WordPress.org!</strong></p>
 
 == Key Features: ==
 
