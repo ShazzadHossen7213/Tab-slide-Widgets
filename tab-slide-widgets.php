@@ -1,17 +1,20 @@
 <?php
 
-/**
+/*
  * Plugin Name:         Tab Slide Widget
- * Plugin URL:          https://example.com
+ * Plugin URI:          https://example.com/plugins/the-basics/
  * Description:         Custom Elementor Tab Slide extension which includes custom widgets  to your WordPress   website.
  * Version:             1.1.0
+ * Requires at least:   5.2
  * Requires PHP:        7.2
  * Author:              Shazzad Hossen
+ * Author URI:          https://author.example.com/
  * License:             GPL v2 or later
  * License URI:         https://www.gnu.org/licenses/gpl-2.0.html
- * Update URI:          https://github.com/ShazzadHossen7213/Tab-slide-Widgets
+ * Update URI:          https://example.com/my-plugin/
  * Text Domain:         custom-tab
  * Domain Path:         /languages
+ * Requires Plugins:    my-plugin, yet-another-plugin
  */
 
 if (! defined('ABSPATH')) {

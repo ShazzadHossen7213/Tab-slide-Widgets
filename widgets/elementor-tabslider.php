@@ -54,7 +54,8 @@ class Elementor_Tabslide_Widget extends \Elementor\Widget_Base
             [
                 'label' => __('Slider Title', 'custom-tab'),
                 'type' => \Elementor\Controls_Manager::TEXT,
-                'default' => __('Dafult Title Here:', 'custom-tab'),
+                'default' => __('Enter Your Title Here...', 'custom-tab'),
+                'placeholder' => __('Enter Your Title Here...', 'custom-tab'),
             ]
         );
 
